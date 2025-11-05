@@ -456,6 +456,11 @@ html {
   height: auto;
 }
 
+.gift-section-items {
+  justify-content: center;
+  align-items: center;
+}
+
 /* End Gifts */
 
 
@@ -609,7 +614,7 @@ html {
 
 .our-sponsors-title {
   color: white;
-  font-size: 4vw;
+  font-size: 3.5vw;
   margin: 0 0 4% 0;
 }
 
